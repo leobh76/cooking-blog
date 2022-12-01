@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "medium-clone"
+    "name": "sanity-cooking-blog"
   },
   "api": {
     "projectId": "ufsoblj5",
